@@ -34,7 +34,7 @@ El equipo adoptó la metodología de trabajo **GitFlow simplificado** para mante
 
 1.  **Planificación Inicial:** Creación del repositorio público en GitHub y sincronización con los entornos locales de cada integrante.
 2.  **Estrategia de Ramas (Branching):**
-    * `main`: Rama principal que contiene únicamente código estable y listo para producción.
+    * `master`: Rama principal que contiene únicamente código estable y listo para producción.
     * `dev`: Rama de desarrollo donde se integró la estructura base y los componentes HTML5.
     * `diseno`: Rama destinada exclusivamente al diseño de estilos CSS, animaciones y comportamiento responsivo.
 3.  **Gestión de Commits:** Se utilizó un estándar descriptivo para el historial de cambios (por ejemplo, `feat:` para nuevas características, `style:` para diseño y `fix:` para resolución de errores).
